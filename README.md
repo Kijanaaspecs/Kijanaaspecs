@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, mostly backend web development
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on anything that can be considered as code
-- 📫 You can reach me here
+- 📫 You can reach me here or anywhere
 
 <!---
 Kijanaaspecs/Kijanaaspecs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
