@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kijanaaspecs
-- 👀 I’m interested in web development, mostly frontend web development
-- 🌱 I’m currently learning HTML5, CSS3, Bootstrap, Tailwind, Node.js 
-- 💞️ I’m looking to collaborate on anything that can be considered as code
-- 📫 You can reach me here or anywhere
+- 👋 Hi, I’m @Kijanaaspecs or simply Isaac
+- 👀 I’m learning web development, mostly frontend web developmentand UI/UX design
+- 🌱 I’m currently doing JavaScript, Node, React and design
+- 💞️ I’m looking to collaborate with other developers.
+- 📫 You can reach me here!
 
 <!---
 Kijanaaspecs/Kijanaaspecs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
